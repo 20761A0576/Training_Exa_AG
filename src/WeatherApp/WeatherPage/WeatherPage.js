@@ -47,6 +47,9 @@ function WeatherPage({ WeatherData }) {
           </>
         )}
       </SubCard>
+      <div>
+        <p>Hey, I have completed today task ram.</p>
+      </div>
     </Card>
   );
 }

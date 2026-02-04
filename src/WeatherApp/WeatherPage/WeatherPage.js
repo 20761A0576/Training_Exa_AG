@@ -48,7 +48,10 @@ function WeatherPage({ WeatherData }) {
         )}
       </SubCard>
       <div>
-        <p>Hey, I have completed today task ram.</p>
+        <p>Hello Ram, How are you</p>
+        <p>Hey Yogi, i am doing great. what about you</p>
+        <p>i am really fine ram, how was the day</p>
+        <p>Nothing yogi, same routine life and job</p>
       </div>
     </Card>
   );
